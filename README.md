@@ -6,10 +6,7 @@ Hi! I am Zirui Zhang from the Hong Kong University of Science and Technology (HK
 
 <div align="center">
   <a href="https://zhangzrjerry.github.io">
-    <img width="400" align="top" src="./metrics.left.svg" />
-  </a>
-  &emsp;
-  <a href="https://zhangzrjerry.github.io">
-    <img width="400" align="top" src="./metrics.right.svg" />
+    <img src="https://github.com/zhangzrjerry/zhangzrjerry/blob/master/overview.svg#gh-light-mode-only" />
+    <img src="https://github.com/zhangzrjerry/zhangzrjerry/blob/master/languages.svg#gh-light-mode-only" />
   </a>
 </div>
